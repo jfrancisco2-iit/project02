@@ -59,3 +59,8 @@ img.resizeimg {
   width: 20%;
   height: 40%;
 }
+
+#resumecenter {
+  background-color: #00C897;
+  font-color: #FFD365;
+}
