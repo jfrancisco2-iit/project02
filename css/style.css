@@ -36,7 +36,7 @@
   text-decoration: underline overline;
 }
 
-body{
+p, li {
   font-family: 'Zilla Slab', serif;
 }
 
