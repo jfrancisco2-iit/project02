@@ -53,6 +53,9 @@ h1{
 
 
 img.resizeimg {
-  width: 60%;
-  height: 80%;
+  dispaly: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: 40%;
 }
