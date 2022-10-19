@@ -68,8 +68,7 @@ h3.specialfont{
 
 img.resizeimg {
   dispaly: block;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding 100px 25px;
   width: 20%;
   height: 40%;
 }
