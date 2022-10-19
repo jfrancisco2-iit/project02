@@ -40,17 +40,30 @@ p, li {
   font-family: 'Zilla Slab', serif;
 }
 
-h1.specailfont, h2.specialfont, h3.specialfont{
-  font-family: 'introrustg-base2line', serif;
-}
 
-h1{
+h1.specialfont{
+  font-family: 'introrustg-base2line', serif;
   font-size: 75px;
   text-align: center;
   padding: 20px 50 px;
   margin: 10px 10px;
 }
 
+h2.specialfont{
+  font-family: 'introrustg-base2line', serif;
+  font-size: 60px;
+  text-align: left;
+  padding: 20px 50 px;
+  margin: 10px 10px;
+}
+
+h3.specialfont{
+  font-family: 'introrustg-base2line', serif;
+  font-size: 40px;
+  text-align: left;
+  padding: 50px 50px;
+  margin: 10px 10px;
+}
 
 img.resizeimg {
   dispaly: block;
