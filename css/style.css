@@ -37,8 +37,14 @@
   text-decoration: underline overline;
 }
 
-p, li {
+li {
   font-family: 'Zilla Slab', serif;
+}
+
+p{
+  padding: 75px;
+  font-family: 'Zilla Slab', serif;
+  font-size: 30px;
 }
 
 
@@ -67,8 +73,7 @@ h3.specialfont{
 }
 
 img.resizeimg {
-  dispaly: block;
-  padding 100px 25px;
+  border: 20px solid #019267;
   width: 20%;
   height: 40%;
 }
