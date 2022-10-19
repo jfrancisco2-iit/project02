@@ -46,3 +46,8 @@ h1{
   padding: 20px 50 px;
   margin: 10px 10px;
 }
+
+img.resizeimg {
+  width: 60%;
+  height: 80%;
+}
