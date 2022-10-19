@@ -42,7 +42,7 @@ li {
 }
 
 p{
-  padding: 75px;
+  padding: 75px 0px 0px 0px;
   font-family: 'Zilla Slab', serif;
   font-size: 25px;
 }
