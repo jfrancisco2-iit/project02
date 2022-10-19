@@ -35,3 +35,7 @@
 #onpage{
   text-decoration: underline overline;
 }
+
+h1, h2, h3{
+  font-family: 'introrustg-base2line', serif;
+}
