@@ -38,10 +38,11 @@
 
 li {
   font-family: 'Zilla Slab', serif;
+  text-align: center;
 }
 
 p{
-  padding: 75px 0px 0px 0px;
+  text-align: center;
   font-family: 'Zilla Slab', serif;
   font-size: 25px;
 }
@@ -84,7 +85,3 @@ img.resizeimg {
   text-align: center;
   padding: 20px 20px;
 }
-
-body ul.cl{
-  padding: 30px 10px 0px 0px;
-} 
