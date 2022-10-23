@@ -36,6 +36,10 @@
   text-decoration: underline overline;
 }
 
+.rs01 p{
+  padding: 5px 0px 5px 20px;
+}
+
 li {
   font-family: 'Zilla Slab', serif;
   text-align: left;
