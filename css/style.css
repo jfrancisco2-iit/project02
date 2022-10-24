@@ -36,8 +36,8 @@
   text-decoration: underline overline;
 }
 
-.rs01 p{
-  padding: 5px 0px 5px 20px;
+.rs01{
+  margin: 5px 0px 5px 20px;
 }
 
 li {
