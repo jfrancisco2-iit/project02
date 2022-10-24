@@ -46,12 +46,15 @@ p{
   margin-left: 10 px;
 }
 
+ul{
+  margin: 20px 0px 0px 50px;
+}
+
 li {
   font-family: 'Zilla Slab', serif;
   list-style-position: inside;
   text-align: left;
   font-size: 25px;
-  margin: 20px 0px 0px 50px;
 }
 
 
