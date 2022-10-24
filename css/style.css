@@ -48,12 +48,6 @@ li {
   padding: 0px 0px 0px 50px;
 }
 
-p{
-  text-align: center;
-  font-family: 'Zilla Slab', serif;
-  font-size: 25px;
-}
-
 
 h1.specialfont{
   font-family: 'introrustg-base2line', serif;
@@ -92,4 +86,8 @@ img.resizeimg {
   font-size: 25px;
   text-align: center;
   padding: 20px 20px;
+}
+
+body {
+  font-family: 'Zilla Slab', serif;
 }
