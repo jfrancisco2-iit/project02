@@ -85,6 +85,7 @@ h3.specialfont{
 img.resizeimg {
   margin-left: 25%;
   margin-right: 25%;
+  position: relative;
   border: 20px solid #019267;
   width: 20%;
   height: 40%;
