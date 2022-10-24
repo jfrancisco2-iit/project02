@@ -74,8 +74,8 @@ h3.specialfont{
 }
 
 img.resizeimg {
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 25%;
+  margin-right: 25%;
   border: 20px solid #019267;
   width: 20%;
   height: 40%;
@@ -90,4 +90,5 @@ img.resizeimg {
 
 body {
   font-family: 'Zilla Slab', serif;
+  font-size: 25px;
 }
