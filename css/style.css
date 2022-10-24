@@ -40,6 +40,12 @@
   margin: 5px 0px 5px 20px;
 }
 
+p{
+  font-size: 25px;
+  padding: 0px 0p;
+  margin-left: 10 px;
+}
+
 li {
   font-family: 'Zilla Slab', serif;
   list-style-position: inside;
