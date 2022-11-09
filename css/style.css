@@ -62,7 +62,7 @@ h1.specialfont{
   font-family: 'introrustg-base2line', serif;
   font-size: 75px;
   text-align: center;
-  padding: 20px 50px;
+  padding: 20px 100px;
   margin: 10px 10px;
 }
 
@@ -70,7 +70,7 @@ h2.specialfont{
   font-family: 'introrustg-base2line', serif;
   font-size: 48px;
   text-align: left;
-  padding: 25px 50px;
+  padding: 25px 100px;
   margin: 10px 10px;
 }
 
