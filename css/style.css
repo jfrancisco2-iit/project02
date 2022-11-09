@@ -111,3 +111,8 @@ footer{
 section{
   padding: 20px 300px;
 }
+
+#img-caption{
+  padding: 20px 300px;
+  background-color: #98ff98;
+}
