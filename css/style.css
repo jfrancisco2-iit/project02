@@ -98,11 +98,11 @@ body {
 }
 
 footer{
-  padding: 20px 150px 20px 150px;
+  padding: 20px 150px 20px 150px
+  background-color: green;
 }
 
 footer p{
-  background-color: green;
   text-aligh: center;
 }
 
